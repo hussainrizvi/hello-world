@@ -1,4 +1,4 @@
 # hello-world
-First repository.
+Removed a line and replaced it with this one.
 
 Added a **new line**.
